@@ -6,3 +6,5 @@ Graphical interfaces:
   - interface "Parcours"
   - interface "Fiche de notes"
   
+Software used: WinDev20
+Language used: WLanguage

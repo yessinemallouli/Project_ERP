@@ -1,0 +1,5 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+EXPRESS_Plan		TAR	78	nouvelle taille enregistrement : 78
+EXPRESS_Plan	annee	CNW	Date (aaaammjj)$Entier sur 4 octets	la rubrique annee a pour nouveau type Date (aaaammjj)
+JPNSE		TAR	34	nouvelle taille enregistrement : 34
+JPNSE	annee	CNW	Date (aaaammjj)$Entier sur 4 octets	la rubrique annee a pour nouveau type Date (aaaammjj)

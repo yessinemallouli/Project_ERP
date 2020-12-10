@@ -1,0 +1,5 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+JPNSE	ID_JPN	RUB+		ID_JPN est une nouvelle clé
+JPNSE	ID_JPNS	RUB-		la clé ID_JPNS est supprimée
+JoinPN		NWL	JoinPN (ID_JPN) et JPNSE (ID_JPN)	Nouvelle liaison entre les fichiers JoinPN (ID_JPN) et JPNSE (ID_JPN)
+JoinPNS		DEL	JoinPNS (ID_JPNS) et JPNSE (ID_JPNS)	Liaison supprimée entre les fichiers JoinPNS (ID_JPNS) et JPNSE (ID_JPNS)

@@ -1,6 +1,6 @@
 # Project_ERP
 LMD management desktop application
-Graphical interfaces:
+- Graphical interfaces:
   - interface "Plan"
   - interface "Etudiant"
   - interface "Parcours"
